@@ -1,6 +1,6 @@
 👋 Hi, I’m Stephani 
 
-I'm an IT professional with over five years of experience in the field, currently working as a Cybersecurity SOC Analyst. 
+I'm an IT professional with over five years of experience in the field, currently working in Security as a SOC Analyst. 
 
 Throughout my career, I've had the opportunity to delve into various IT topics and tackle diverse projects that have broadened my expertise and skill set.
 
